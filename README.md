@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills.
 
-## 🎓 About Me
-
-- Pursuing B-Tech in Full Stack Web Development at Pimpri Chinchwad College Of Engineering.
-- Frontend Developer intern at Code Clause and Oasis Infobyte.
-- Actively contributing to open-source projects.
-
 ## 🚀 Skills
 
 - HTML, CSS, JavaScript, MERN stack.
@@ -34,22 +28,3 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 Feel free to reach out: lendeatharva30@gmail.com | +91 9168582807.
 
-## 📊 GitHub Activity
-
-![Your GitHub Contributions](https://ghchart.rshah.org/your-username)
-
-## 🎨 Design Elements & Animation
-
-<!-- Replace `your-username` with your actual GitHub username -->
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; text-align: center; animation: pulse 2s infinite;">
-  <h2 style="color: #333;">Thanks for Visiting!</h2>
-  <p style="font-style: italic;">Let's create something amazing together!</p>
-</div>
-
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
