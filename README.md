@@ -31,6 +31,9 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 - Cricket enthusiast.
 - Love participating in hackathons and coding competitions.
 
+## 🌐 Portfolio
+
+Check out my portfolio: [Portfolio](https://atharvalende.vercel.app/)
+
 ## 📧 Let's Connect
 
-Feel free to reach out: lendeatharva30@gmail.com | +91 9168582807.
