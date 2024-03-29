@@ -1,21 +1,55 @@
-👋 Hi there! I'm Atharva Dilip Lende, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills. I thrive in dynamic and challenging environments that encourage creativity, collaboration, and continuous learning.
-Currently pursuing my B-Tech in Full Stack Web Development at Pimpri Chinchwad College Of Engineering, I have maintained a commendable CGPA of 9.16 until the second year. My academic journey has provided me with a solid foundation in web development and has fueled my drive to innovate and build efficient software solutions.
-💼 Work Experience:
-During my journey, I had the opportunity to intern as a Frontend Developer at Code Clause and Oasis Infobyte. These virtual remote internships exposed me to real-world projects, allowing me to apply my skills and deliver high-quality results. I have also been actively contributing to open-source projects, constantly seeking ways to improve and give back to the community.
+# Atharva Dilip Lende - Full Stack Web Developer 👋
 
-💻 Skills:
-With a keen eye for detail and a love for coding, I am well-versed in HTML, CSS, JavaScript, and have proficiency in working with the MERN stack. Additionally, I have completed relevant online courses, including React.js - The Complete Guide and Node.js API masterclass with Express and Mongodb, further enhancing my expertise.
+Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills.
 
-🛠️ Personal Projects:
-I believe in hands-on learning and have undertaken personal projects to expand my knowledge. From developing an Airline Reservation System in C++ to creating a Tic Tac Toe game using HTML, CSS, and JavaScript, I enjoy exploring new technologies and transforming ideas into functional applications.
+## 🎓 About Me
 
-🏆 Certifications:
-My commitment to continuous improvement led me to complete various certifications, including React.js, Node.js, and the MERN Full Stack Guide. I am also proud to hold certifications from IIT for Spoken Tutorial C and Java.
+- Pursuing B-Tech in Full Stack Web Development at Pimpri Chinchwad College Of Engineering.
+- Frontend Developer intern at Code Clause and Oasis Infobyte.
+- Actively contributing to open-source projects.
 
-🏏 Interests:
-When I'm not coding, you can find me on the cricket field, where I apply the principles of teamwork, strategy, and dedication. I also have a deep interest in participating in hackathons and coding competitions to challenge myself and learn from like-minded individuals.
+## 🚀 Skills
 
-📧 Let's Connect:
-I am always open to exploring new opportunities, collaborating on exciting projects, and networking with fellow professionals in the tech industry. Feel free to reach out to me at lendeatharva30@gmail.com or call me at 9168582807.
+- HTML, CSS, JavaScript, MERN stack.
+- Completed React.js - The Complete Guide and Node.js API masterclass.
+- Continuously learning and exploring new technologies.
 
-Let's connect, share ideas, and make an impact together in the world of web development!
+## 💻 Projects
+
+- Airline Reservation System (C++).
+- Tic Tac Toe game (HTML, CSS, JavaScript).
+- Always building and innovating.
+
+## 🏆 Certifications
+
+- React.js, Node.js, MERN Full Stack Guide.
+- Spoken Tutorial C and Java certifications from IIT.
+
+## 🏏 Interests
+
+- Cricket enthusiast.
+- Love participating in hackathons and coding competitions.
+
+## 📧 Let's Connect
+
+Feel free to reach out: lendeatharva30@gmail.com | +91 9168582807.
+
+## 📊 GitHub Activity
+
+![Your GitHub Contributions](https://ghchart.rshah.org/your-username)
+
+## 🎨 Design Elements & Animation
+
+<!-- Replace `your-username` with your actual GitHub username -->
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; text-align: center; animation: pulse 2s infinite;">
+  <h2 style="color: #333;">Thanks for Visiting!</h2>
+  <p style="font-style: italic;">Let's create something amazing together!</p>
+</div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
