@@ -33,8 +33,6 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [Portfolio](https://atharvalende.vercel.app/){:target="_blank"}
-
----
+Check out my portfolio: <a href="https://atharvalende.vercel.app/" target="_blank">Portfolio</a>
 
 Continue to the next page for more information.
