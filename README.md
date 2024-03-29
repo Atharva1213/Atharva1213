@@ -4,9 +4,24 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 ## 🚀 Skills
 
-- HTML, CSS, JavaScript, MERN stack.
-- Completed React.js - The Complete Guide and Node.js API masterclass.
-- Continuously learning and exploring new technologies.
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+  <div>
+    <img src="https://picsum.photos/100" alt="HTML" style="width: 100px;">
+    <p>HTML</p>
+  </div>
+  <div>
+    <img src="https://picsum.photos/101" alt="CSS" style="width: 100px;">
+    <p>CSS</p>
+  </div>
+  <div>
+    <img src="https://picsum.photos/102" alt="JavaScript" style="width: 100px;">
+    <p>JavaScript</p>
+  </div>
+  <div>
+    <img src="https://picsum.photos/103" alt="MERN Stack" style="width: 100px;">
+    <p>MERN Stack</p>
+  </div>
+</div>
 
 ## 💻 Projects
 
@@ -27,4 +42,3 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 ## 📧 Let's Connect
 
 Feel free to reach out: lendeatharva30@gmail.com | +91 9168582807.
-
