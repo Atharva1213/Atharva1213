@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 ## 🚀 Skills
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
   <div>
     <img src="https://picsum.photos/100" alt="HTML" style="width: 100px;">
     <p>HTML</p>
