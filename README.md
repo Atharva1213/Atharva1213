@@ -2,26 +2,17 @@
 
 Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills.
 
+## 🎓 About Me
+
+- Pursuing B-Tech in Full Stack Web Development at Pimpri Chinchwad College Of Engineering.
+- Frontend Developer intern at Code Clause and Oasis Infobyte.
+- Actively contributing to open-source projects.
+
 ## 🚀 Skills
 
-<div style="display: flex; width: 100%; gap: 20px; justify-content: center; flex-wrap: nowrap;">
-  <div>
-    <img src="https://picsum.photos/100" alt="HTML" style="width: 100px;">
-    <p>HTML</p>
-  </div>
-  <div>
-    <img src="https://picsum.photos/101" alt="CSS" style="width: 100px;">
-    <p>CSS</p>
-  </div>
-  <div>
-    <img src="https://picsum.photos/102" alt="JavaScript" style="width: 100px;">
-    <p>JavaScript</p>
-  </div>
-  <div>
-    <img src="https://picsum.photos/103" alt="MERN Stack" style="width: 100px;">
-    <p>MERN Stack</p>
-  </div>
-</div>
+- HTML, CSS, JavaScript, MERN stack.
+- Completed React.js - The Complete Guide and Node.js API masterclass.
+- Continuously learning and exploring new technologies.
 
 
 ## 💻 Projects
