@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 ## 🚀 Skills
 
-<div style="display: flex; width: 100%; gap: 20px; justify-content: center;">
+<div style="display: flex; width: 100%; gap: 20px; justify-content: center; flex-wrap: nowrap;">
   <div>
     <img src="https://picsum.photos/100" alt="HTML" style="width: 100px;">
     <p>HTML</p>
@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
     <p>MERN Stack</p>
   </div>
 </div>
+
 
 ## 💻 Projects
 
