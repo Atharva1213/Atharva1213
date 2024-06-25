@@ -4,26 +4,24 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 ## 🎓 About Me
 
-- Pursuing B-Tech in Full Stack Web Development at Pimpri Chinchwad College Of Engineering.
-- Frontend Developer intern at Code Clause and Oasis Infobyte.
+- Pursuing B-Tech in Computer Engineering at Pimpri Chinchwad College Of Engineering.
 - Actively contributing to open-source projects.
 
 ## 🚀 Skills
 
 - HTML, CSS, JavaScript, MERN stack.
 - Completed React.js - The Complete Guide and Node.js API masterclass.
+- Go-lang
+- Docker
+- Aws
+- Cloud Computing
 - Continuously learning and exploring new technologies.
-
-
-## 💻 Projects
-
-- Airline Reservation System (C++).
-- Tic Tac Toe game (HTML, CSS, JavaScript).
-- Always building and innovating.
 
 ## 🏆 Certifications
 
 - React.js, Node.js, MERN Full Stack Guide.
+- Java Deveolpnment
+- spring boot  in java
 - Spoken Tutorial C and Java certifications from IIT.
 
 ## 🏏 Interests
@@ -35,4 +33,4 @@ Welcome to my GitHub profile! I'm Atharva Dilip Lende, a passionate Full Stack W
 
 Check out my portfolio: <a href="https://atharvalende.vercel.app/" target="_blank">Portfolio</a>
 
-Continue to the next page for more information.
+Continue to the next page for more infor
