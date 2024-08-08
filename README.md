@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/69046ffd-815b-4232-ab9e-ba1f21a48186" alt="Profile Banner" style="width: 100%; border-radius: 10px;">
 </div>
 <br/>
-Welcome to my GitHub profile! I'm **Atharva Dilip Lende**, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills.
+Welcome to my GitHub profile! I'm <b>Atharva Dilip Lende</b>, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills.
 
 ---
 
